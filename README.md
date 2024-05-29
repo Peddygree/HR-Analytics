@@ -55,8 +55,12 @@ This is a project report that summarizes employee statistics (wellness, age, dis
 
 ### Recommendations
 
+- Analysis shoukd be done quartely or annually to keep up happenings with employees and determine workforce, know who has to be laid off with respect to retirement and know wmployees who stay in the company's budget and the ones who don't during trips 
 
 ### Limitations
+
+- Absolutely None! Data was accurate and process was seamless
+
 
 💻
 😎
