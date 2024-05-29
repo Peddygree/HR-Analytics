@@ -47,12 +47,16 @@ This is a project report that summarizes employee statistics (wellness, age, dis
 
 ### Results
 
-
-
+![Annotation 2024-05-29 114646](https://github.com/Peddygree/HR-Analytics/assets/170563175/6cc9f8ac-39e5-43c6-8141-67f591463dff)
+![Annotation 2024-05-29 120543](https://github.com/Peddygree/HR-Analytics/assets/170563175/a6d99259-af97-4c71-a2d3-2adecd0587b4)
+![Annotation3 2024-05-29 120624](https://github.com/Peddygree/HR-Analytics/assets/170563175/464ea656-656a-45e4-a4b8-4e6216509984)
+![Annotation4 2024-05-29 120716](https://github.com/Peddygree/HR-Analytics/assets/170563175/b8cc1877-457a-44bd-9594-14824a6949ac)
+![Annotation5 2024-05-29 120811](https://github.com/Peddygree/HR-Analytics/assets/170563175/ffe3b099-ec67-46a0-a309-3f2963b610d4)
 
 ### Recommendations
 
 
-
 ### Limitations
 
+💻
+😎
