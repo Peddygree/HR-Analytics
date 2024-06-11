@@ -1,5 +1,4 @@
 # HR-Analytics
-![Annotation 2024-05-29 114646](https://github.com/Peddygree/Sales-Analysis/assets/170563175/9d1232f9-ab62-4ea7-a1d0-013461c3bdda)
 A MeriSkill internship programme. 
 
 ### Table of Contents
